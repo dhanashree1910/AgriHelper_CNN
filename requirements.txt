@@ -1,7 +1,7 @@
 fastapi==0.115.0
 uvicorn==0.30.1
 torch==2.5.1
-torchvision==0.20.1
+torchvision==0.22.0
 efficientnet_pytorch==0.7.1
 albumentations==1.4.7
 pillow==10.3.0
